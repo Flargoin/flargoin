@@ -1,6 +1,6 @@
 ![Header](https://github.com/Flargoin/flargoin/blob/main/assets/Group%201.jpg)
 
-## Я начинающий веб-разработчик, работал верстальщиком год, на данный момент учу JavaScript и хочу стать Front-end разработчиком
+## Я начинающий веб-разработчик
 
 ## Languages and Tools
 ![HTML](https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=Html5)
