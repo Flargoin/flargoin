@@ -3,10 +3,11 @@
 ## Я начинающий веб-разработчик
 
 ## Languages and Tools
-![HTML](https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=Html5)
-![CSS](https://img.shields.io/badge/CSS-gray?style=for-the-badge&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=Javascript)
-![Gulp](https://img.shields.io/badge/Gulp-gray?style=for-the-badge&logo=gulp)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=Html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)
+![Gulp](https://img.shields.io/badge/Gulp-red?style=for-the-badge&logo=gulp&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-222e3d?style=for-the-badge&logo=Webpack#80c7ff&logoColor=white)
 
 ## Social media
 [![VKontakte](https://img.shields.io/badge/Vkontakte-black?style=for-the-badge&logo=vk)](https://vk.com/id494480973)
