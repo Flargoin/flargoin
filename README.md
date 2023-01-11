@@ -17,3 +17,21 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=Flargoin&style=flat-square&color=blue" alt=""/>
 </div>
+
+<h1 align="center">
+  Привет
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" width="500" height="230"/>
+</div>
+
+### :man_technologist: Обо мне :
+Я Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+
+- :telescope: Я работал во фронтенде в роли верстальщика на протяжении года.
+
+- :zap: В данный момент решаю задачи на codewars и прохожу курсы по JS и React
+
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/K4rik4tur4)
